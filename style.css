@@ -1,10 +1,14 @@
 html {
 	background-color: #ccccff;
-	
+	font-family: Arial Veranda, Monospace
 }
 p { 
 	color: blue;
 	
+}
+
+h2{ 
+	color: red;
 }
 ul { color : red;
 	
