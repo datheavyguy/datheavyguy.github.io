@@ -1,7 +1,9 @@
 html {
-	background-color: #ccccff;
+	
 	font-family: Arial Veranda, Monospace
 }
+	
+body { background-image: url(Website_Background.jpg); background-repeat: repeat; }
 p { 
 	color: blue;
 	
