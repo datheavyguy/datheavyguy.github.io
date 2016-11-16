@@ -2,14 +2,16 @@ html {
 	
 	font-family: Arial Veranda, Monospace
 }
-title{ font-size: 40px;
+title{ 
+	font-size: 40px;
 }
 
 	
 <! body { background-image: url(C:\Users\Brian\Pictures\Saved Pictures\Website_Background.jpg); background-repeat: repeat; } >
 body {background-color:background-color:blue;
 }
-p { 	font-size: 14px;
+p { 	
+	font-size: 14px;
 	color: 	#00FFFF;
 	
 }
