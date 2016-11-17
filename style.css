@@ -1,5 +1,5 @@
 html {
-	
+	background-color:background-color:#00FFFF;
 	font-family: Arial Veranda, Monospace
 }
 title{ 
@@ -8,11 +8,11 @@ title{
 
 	
 <! body { background-image: url(C:\Users\Brian\Pictures\Saved Pictures\Website_Background.jpg); background-repeat: repeat; } >
-body {background-color:background-color:blue;
+body {
 }
 p { 	
 	font-size: 14px;
-	color: 	#00FFFF;
+	color: 	#0000A0;
 	
 }
 
