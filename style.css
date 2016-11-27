@@ -7,9 +7,10 @@ title{
 }
 
 	
-<! body { background-image: url(C:\Users\Brian\Pictures\Saved Pictures\Website_Background.jpg); background-repeat: repeat; } >
+
 body {
-	background-color: #00FFFF;
+	
+	background-image: url("C:\Users\Brian\Pictures\Saved Pictures\Website_Background.jpg");  
 }
 p { 	
 	font-size: 14px;
