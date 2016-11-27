@@ -3,7 +3,7 @@ html {
 	font-family: Arial Veranda, Monospace
 }
 title{ 
-	font-size: 40px;
+	font-size: 2.5em;
 }
 
 	
@@ -13,17 +13,17 @@ body {
 	background-image: url("C:\Users\Brian\Pictures\Saved Pictures\Website_Background.jpg");  
 }
 p { 	
-	font-size: 14px;
-	color: #0000A0;
+	font-size: 1.875pm;
+	color: green;
 	
 }
 
 h2{ 
 	color: red;
-	font-size: 25px;
+	font-size: 1.5em;
 }
 ul { color : red;
-	font-size: 14px;
+	font-size: 1em;
 	
 }
 
