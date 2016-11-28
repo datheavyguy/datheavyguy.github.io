@@ -19,18 +19,18 @@ body {
  
      0%  {background: #99ffcc;}
     25%  {background: #99ff66;}
-    50%  {background: #ffff4d;}
-    75%  {background: #ff1a1a;}
-    100% {background: #ffccff;}
+    50%  {background: #ffff66;}
+    75%  {background: #ff9999;}
+    100% {background: #ccccff;}
 }
  
  
 @keyframes colorchange {
      0%  {background: #99ffcc;}
     25%  {background: #99ff66;}
-    50%  {background: #ffff4d;}
-    75%  {background: #ff1a1a;}
-    100% {background: #ffccff;}
+    50%  {background: #ffff66;}
+    75%  {background: #ff9999;}
+    100% {background: #ccccff;}
 }   
 
 p { 	
