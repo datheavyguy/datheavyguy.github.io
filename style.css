@@ -2,6 +2,9 @@ html {
 	
 	font-family: Arial Veranda, Monospace
 }
+head{
+	font-size: 3em;
+}
 title{ 
 	font-size: 3em;
 }
