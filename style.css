@@ -12,8 +12,8 @@ title{
 	
 
 body {
-	 -webkit-animation: colorchange 20s infinite; 
-    animation: colorchange 20s infinite;
+	 -webkit-animation: colorchange 2s infinite; 
+    animation: colorchange 2s infinite;
 }
 @-webkit-keyframes colorchange {
  
