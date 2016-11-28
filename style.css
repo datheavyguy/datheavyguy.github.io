@@ -32,9 +32,11 @@ body {
     75%  {background: #ff9999;}
     100% {background: #ccccff;}
 }   
-
+h1{
+	font-size: 2em
+}
 p { 	
-	font-size: 1.875em;
+	font-size: 1.75em;
 	
 	
 }
