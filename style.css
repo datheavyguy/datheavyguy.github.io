@@ -1,3 +1,36 @@
+html {
+	
+	font-family: Arial Veranda, Monospace
+}
+head{
+	font-size: 3em;
+}
+title{ 
+	font-size: 3em;
+}
+
+body {
+  background-color: #101823;
+	}
+
+h1{
+	font-size: 2em
+}
+p { 	
+	font-size: 2em;
+}
+a{
+	font-size: 1.5em;
+}
+
+h2{ 
+	
+	font-size: 1.75em;
+}
+ul { 
+	font-size: 1.35em;
+	
+}
 
 
 
