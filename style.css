@@ -4,34 +4,40 @@ html {
 }
 head{
 	font-size: 2em;
+	 max-width: 568px;
 }
 title{ 
 	font-size: 2em;
+	max-width: 568px;
 }
 
 body {
   background-color: #101823;
   color: white;
+	max-width: 568px;
 	}
 
 h1{
 	font-size: 1.25em
+	max-width: 568px;
 }
 p { 	
 	font-size: 1.25em;
 	color: white;
+	max-width: 568px;
 }
 a{
 	font-size: 1.25em;
+	max-width: 568px;
 }
 
 h2{ 
-	
+	max-width: 568px;
 	font-size: 1.25em;
 }
 ul { 
 	font-size: 1.25em;
-	
+	max-width: 568px;
 }
 
 
