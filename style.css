@@ -4,40 +4,40 @@ html {
 }
 head{
 	font-size: 2em;
-	 max-width: 568px;
+	 max-width: 665px;
 }
 title{ 
 	font-size: 2em;
-	max-width: 568px;
+	max-width: 665px;
 }
 
 body {
   background-color: #101823;
   color: white;
-	max-width: 568px;
+	max-width: 665px;
 	}
 
 h1{
 	font-size: 1.25em
-	max-width: 568px;
+	max-width: 665px;
 }
 p { 	
 	font-size: 1.25em;
 	color: white;
-	max-width: 568px;
+	max-width: 665px;
 }
 a{
 	font-size: 1.25em;
-	max-width: 568px;
+	max-width: 665px;
 }
 
 h2{ 
-	max-width: 568px;
+	max-width: 665px;
 	font-size: 1.25em;
 }
 ul { 
 	font-size: 1.25em;
-	max-width: 568px;
+	max-width: 665px;
 }
 
 
