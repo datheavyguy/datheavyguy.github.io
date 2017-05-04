@@ -12,7 +12,14 @@ title{
 }
 
 body {
-  background-color: #101823;
+	
+  background-color: #0d1a26;
+  background-color: -webkit-linear-gradient(#0d1a26, #334d4d);
+  background-color:    -moz-linear-gradient(#0d1a26, #334d4d);
+  background-color:         linear-gradient(#0d1a26, #334d4d);
+
+
+  
   color: white;
 	max-width: 665px;
 	}
