@@ -13,10 +13,10 @@ title{
 
 body {
 	
-  background-color: #0d1a26;
-  background-color: -webkit-linear-gradient(#0d1a26, #334d4d);
-  background-color:    -moz-linear-gradient(#0d1a26, #334d4d);
-  background-color:         linear-gradient(#0d1a26, #334d4d);
+  background: #0d1a26;
+  background: -webkit-linear-gradient(#0d1a26, #334d4d);
+  background:    -moz-linear-gradient(#0d1a26, #334d4d);
+  background:         linear-gradient(#0d1a26, #334d4d);
 
 
   
