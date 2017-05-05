@@ -14,9 +14,9 @@ title{
 body {
 	
   background: #0d1a26;
-  background: -webkit-linear-gradient(#0d1a26, #334d4d);
-  background:    -moz-linear-gradient(#0d1a26, #334d4d);
-  background:         linear-gradient(#0d1a26, #334d4d);
+  background: -webkit-linear-gradient(left, #050700, #8a9e8f);
+  background:    -moz-linear-gradient(left, #050700, #8a9e8f);
+  background:         linear-gradient(left, #050700, #8a9e8f);
 
 
   
