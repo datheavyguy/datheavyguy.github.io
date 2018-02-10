@@ -16,26 +16,7 @@ title{
 	
 
 body {
-	 -webkit-animation: colorchange 20s infinite; 
-    animation: colorchange 20s infinite;
-}
-@-webkit-keyframes colorchange {
- 
-     0%  {background: #e60000;}
-    25%  {background: #0000e6;}
-    50%  {background: #009900;}
-    75%  {background: #e6ac00;}
-    100% {background: #e60000;}
-}
- 
- 
-@keyframes colorchange {
-     0%  {background: #e60000;}
-    25%  {background: #0000e6;}
-    50%  {background: #009900;}
-    75%  {background: #e6ac00;}
-    100% {background: #e60000;}
-}   
+	 background-image: url("https://www.wallpapersbrowse.com/images/ed/ed5of36.jpg");
 h1{
 	font-size: 1.5em
 }
