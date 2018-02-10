@@ -21,20 +21,20 @@ body {
 }
 @-webkit-keyframes colorchange {
  
-     0%  {background: #99ffcc;}
-    25%  {background: #99ff66;}
-    50%  {background: #ffff66;}
-    75%  {background: #ff9999;}
-    100% {background: #ccccff;}
+     0%  {background: #660000;}
+    25%  {background: #000066;}
+    50%  {background: #003300;}
+    75%  {background: #666600;}
+    100% {background: #333333;}
 }
  
  
 @keyframes colorchange {
-     0%  {background: #99ffcc;}
-    25%  {background: #99ff66;}
-    50%  {background: #ffff66;}
-    75%  {background: #ff9999;}
-    100% {background: #ccccff;}
+     0%  {background: #660000;}
+    25%  {background: #000066;}
+    50%  {background: #003300;}
+    75%  {background: #666600;}
+    100% {background: #333333;}
 }   
 h1{
 	font-size: 1.5em
