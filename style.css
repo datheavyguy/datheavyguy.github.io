@@ -22,18 +22,18 @@ body {
 @-webkit-keyframes colorchange {
  
      0%  {background: #e60000;}
-    25%  {background: #000066;}
-    50%  {background: #003300;}
-    75%  {background: #666600;}
+    25%  {background: #0000e6;}
+    50%  {background: #009900;}
+    75%  {background: #e6ac00;}
     100% {background: #e60000;}
 }
  
  
 @keyframes colorchange {
      0%  {background: #e60000;}
-    25%  {background: #000066;}
-    50%  {background: #003300;}
-    75%  {background: #666600;}
+    25%  {background: #0000e6;}
+    50%  {background: #009900;}
+    75%  {background: #e6ac00;}
     100% {background: #e60000;}
 }   
 h1{
