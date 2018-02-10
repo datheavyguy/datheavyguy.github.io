@@ -1,6 +1,6 @@
 html {
 	color: #e6e600;
-	text-align: center;
+	
 	font-family: Arial Veranda, Monospace
 		margin-top: 100px;
     		margin-bottom: 100px;
@@ -8,32 +8,38 @@ html {
    		margin-left: 80px;
 }
 head{
+	text-align: center;
 	font-size: 2em;
 }
 title{ 
+	text-align: center;
 	font-size: 2em;
 }
 
 	
 
 body {
+	text-align: center;
 	 background-image: url(https://thumbs.dreamstime.com/b/web-background-textures-wallpapers-backgrounds-website-business-matters-cool-gray-tones-46127840.jpg);
 h1{
+	text-align: center;
 	font-size: 1.5em
 }
 p { 	
+	text-align: center;
 	font-size: 1em;
 }
 a{
+	text-align: center;
 	font-size: 1em;
 }
 
 h2{ 
+	text-align: left;
 	
 	font-size: 1.25em;
 }
 ul { 
-	font-size: 1em;
 	text-align: left;
-	
+	font-size: 1em;
 }
