@@ -43,3 +43,10 @@ ul {
 	text-align: left;
 	font-size: 1em;
 }
+	hr {
+    border: none;
+    height: 7px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
